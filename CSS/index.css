@@ -1,0 +1,52 @@
+* {
+  padding: 2;
+  margin: 0;
+  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+
+.Main-body {
+  padding: 5px;
+  margin: 10px 10px;
+}
+
+.box {
+  height: 395px;
+  width: 590px;
+  background-image: url(../Images/1.jpg);
+  margin: 20px;
+  text-align: center;
+  border: 5px solid green;
+  border-radius: 10px 100px / 120px;
+  display: inline-block;
+}
+.text {
+    text-align: center;
+    height: 390px;
+    width: 580px;
+    padding: 32px;
+    border: 9px dotted blue;
+    margin: 30px;
+}
+.page-set {
+  text-align: left;
+}
+.box {
+  float: inline-end;
+}
+
+
+
+.but-more {
+  height: 53px;
+  width: 172px;
+  border-radius: 30px;
+}
+
+.carousel-dark .carousel-caption {
+  color: #f3efef;
+}
+.map-google{
+  width: 600;
+  height: 400;
+}

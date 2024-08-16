@@ -1,0 +1,48 @@
+.contan {
+    height: 382px;
+    width: 1200px;
+    margin: 10px;
+    border: 1px solid black;
+    border-radius: 10px;
+
+    display: flex;
+    flex-direction: row;
+
+}
+.m {
+    width: 378px;
+    height: 358px;
+    margin: 10px;  
+
+}
+.mhv1{
+  /* background-color: rgb(238, 12, 87);  */
+  border : 1px solid blueviolet;
+  border-radius: 10px;
+}
+.mhv2{
+ border : 1px solid blueviolet;
+  border-radius: 10px;
+}
+.mhv3{
+ border : 1px solid blueviolet;
+  border-radius: 10px;
+}
+
+.left-right{
+  height: 500px;
+    width: 1200px;
+    margin: 10px;
+    border: 1px solid black;
+    border-radius: 10px;
+
+    display: flex;
+    flex-direction: row;
+}
+
+/* card css code */
+.card {
+  margin: 15px;
+  width: 375px;
+  height: 450px;
+}
